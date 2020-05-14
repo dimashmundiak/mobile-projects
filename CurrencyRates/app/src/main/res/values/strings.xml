@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"> Курс гривні НБУ </string>
+    <string name="rates_url"> http://bank-ua.com/export/currrate.xml </string>
+</resources>
